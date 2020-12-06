@@ -55,3 +55,7 @@ Computational photography is usually the core of an AI-powered camera (Kanchwala
 
 <center><b>Oppo AI Camera</b></center>
 <center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/ny4-e2TZrBw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
+
+<center><b>Apple AI Camera</b></center>
+<center><p><iframe width="560" height="315" src="https://www.youtube.com/embed/KptXOp6Sjcg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
+
