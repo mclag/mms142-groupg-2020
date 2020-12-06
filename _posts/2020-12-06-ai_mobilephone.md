@@ -34,3 +34,7 @@ Aside from speech recognition, another thing that AI can do is that it is capabl
 
 <center><b>Siri Actual Language Translation</b></center>
 <center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/wO7DYG9JT58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
+
+<br/>
+#### 2.Cybersecurity 
+People use the internet every day using their mobile phones. Every time they visit their social media accounts, banking applications, e-commerce sites all their personal information and bank details such as credit cards had been logged in all those sites. With that, there is risk wherein data breach can happen. In order to not compromise user information, mobile phone manufacturers used AI to protect users from cyber-attack. AI-enhanced cybersecurity using biometrics, finger prints, hands- free gesture, facial unlock system, and multifactor authentication on mobile devices. AI-based algorithms can find malware and threats and alert users' account in real-time. It can also add a level of augmentation to biometric authentication which makes it impossible for a hacker to hack the system and device (Anurag, 2020). 
