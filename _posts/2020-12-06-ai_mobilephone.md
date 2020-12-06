@@ -43,3 +43,7 @@ People use the internet every day using their mobile phones. Every time they vis
 
 <center><b>The Face ID Feature on Iphone X</b></center>
 <center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/g4m6StzUcOw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
+
+<center><b>Oppo AI Smart Sensor</b></center>
+<center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/ARMlkshe3Dw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
