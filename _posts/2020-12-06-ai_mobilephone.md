@@ -16,7 +16,7 @@ The mobile phone industry has been one of the industries where AI has been succe
 
 This article will tackle how AI transforms the mobile phone industry. Below are examples of the usage of AI and how it enables mobile technology to perform better and do complex tasks.
 
-## Three Things AI can do in Mobile Phone Industry
+<div align="center"> ## Three Things AI can do in Mobile Phone Industry <div align="center"/>
 
 #### 1.	Speech Recognition and Real Time Language Translation
 
