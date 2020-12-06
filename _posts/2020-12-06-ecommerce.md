@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artificial Intelligence in the E-Commerce Industry"
-author: Mia 
+author: Mia Jaro
 categories: [Artificial Intelligence, Online Shopping, E-Commerce]
 image: assets/images/igor-miske-Px3iBXV-4TU-unsplash.jpg
 ---
@@ -40,6 +40,7 @@ The AI collects psychographic and demographic data to predict trends. With this,
 According to Aljukjadar (2018), AI disrupts the “current e-commerce model.” In the past, businesses would be the ones to coax demand but, now what the consumers want, they get. Notice that the examples mentioned above focus on what the market wants and catering to that. Aljukjadar goes on to claim that soon, with the help of AI, customers would dictate their orders and, sellers would have to consider it depending on various details. As he wrote, “AI will transform online buying to online negotiating.” 
 
 _References:_
+
 Aljukhadar, M. (2018, February 28). AI to Disrupt the E-Commerce Scene (and Facebook has a Competitive Advantage). Entrepreneur. Retrieved from: https://www.entrepreneur.com/article/309702 
 
 Hao, K. (2018, November 17). What is Machine Learning? MIT Technology Review. Retrieved from: https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/ 
