@@ -20,4 +20,4 @@ This article will tackle how AI transforms the mobile phone industry. Below are 
 <br/>
 ## Three Things AI can do in Mobile Phone Industry
 
-#### 1.	Speech Recognition and Real Time Language Translation 
+#### 1.	Speech Recognition and Real Time Language Translation
