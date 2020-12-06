@@ -20,7 +20,7 @@ authors:
     email: mclagayan@up.edu.ph
     web: 
     twitter: 
-    description: 
+    description:  
   Lea:
     name: Lea Lyn Latawan
     display_name: Lea Lyn 
@@ -29,7 +29,6 @@ authors:
     web: 
     twitter: 
     description: 
-  
 # Plugins
 plugins:
   - jekyll-paginate
