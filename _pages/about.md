@@ -14,7 +14,7 @@ comments: true
 <h4>References:</h4>
 
 <p>PBloomberg, J. (2018, July 7). Think You Know How Disruptive Artificial Intelligence Is? Think Again. Retrieved from <a href= " https://www.forbes.com/sites/jasonbloomberg/2018/07/07/think-you-know-how-disruptive-artificial-intelligence-is-think-again/?sh=43d9fa1b3c90">https://www.forbes.com/sites/jasonbloomberg/2018/07/07/think-you-know-how-disruptive-artificial-intelligence-is-think-again/?sh=43d9fa1b3c90</a>
-  
+
 Frankenfield, J. (2020, March 13). Artificial Intelligence (AI). Retrieved from <a href="https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp">https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp</a>
 
 What Is Artificial Intelligence? (n.d.).  Retrieved from <a href="https://www.sciencealert.com/artificial-intelligence">https://www.sciencealert.com/artificial-intelligence</a>.</p>
