@@ -48,7 +48,7 @@ People use the internet every day using their mobile phones. Every time they vis
 <center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/ARMlkshe3Dw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
 
 <br/>
-#### 3. AI  Phone Cameras 
+#### 3. AI in Phone Cameras 
 A more advanced camera system is one of the selling points of a smartphone. People nowadays don’t just buy them for communication purposes or to browse the internet but instead, people use them to take photos and videos to create content which they can upload on their social media accounts. People demand more improved hardware and software to be able to get the highest quality photos and videos. Every year, mobile phone manufacturer is on the competition and they are challenged by the user to bring in the best camera technology on their flagship smartphone. With the help of AI, phone cameras are getting better than DSLR cameras. 
 
 Computational photography is usually the core of an AI-powered camera (Kanchwala, 2019). Computational photography refers to digital image capture and processing techniques that use digital computation instead of optical processes (Wikipedia, 2020). One of the reason why smartphone cameras are getting better than DSLR cameras is that it has all access to all the latest computational photography tools because of the continuous updates on its operating system. Also with AI in phone cameras, scene recognition, edge detection in portraits, face recognition, enhancing color profiles, smoothing skin and other image processing options can be done easily (Gogoi,2019). 
@@ -59,3 +59,5 @@ Computational photography is usually the core of an AI-powered camera (Kanchwala
 <center><b>Apple AI Camera</b></center>
 <center><p><iframe width="560" height="315" src="https://www.youtube.com/embed/KptXOp6Sjcg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
 
+<br/>
+<center><b><h2>How AI Can Disrupt the Mobile Phone Industry?</h2></b></center>
