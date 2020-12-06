@@ -63,7 +63,7 @@ Computational photography is usually the core of an AI-powered camera (Kanchwala
 <center><b><h2>How AI Can Disrupt the Mobile Phone Industry?</h2></b></center>
 AI in the mobile phone industry can be disruptive because of these three reasons:  personalization, intimacy, and productivity. When it comes to personalization, AI can gather more detailed and standardized data on users’ individual preferences and behavior. Data can be used to automate and assist what people do today and find ways to do things that humans cannot do. AI personalized user experience. With that, a certain level of intimacy can be developed as the user interacts with these mobile technologies, AI can help the user to make decisions and take actions. In the future, more apps will be built to understand human emotions by hearing their voices or seeing their faces, and apps will have the features to respond to them appropriately just like providing recommendations. The automation of tasks and greater intimacy and personalization can help the user save time and will allow them to devote their time being productive and pursue activities that they are really interested in (Rao et al., n.d.). 
 
-<center><b><h3>Conclusion</h3></b></center>
+## Conclusion
 As mobile phone manufacturer enables more AI-based features on their flagship phone there is no doubt that the future smartphone would surely become smarter than ever and would do unimaginable things. This will also bring in more profits to those app developers.  Yet, there are still a lot of things to explore about AI application in the mobile phone industry and I know there will be endless innovation coming up. Hence, AI will continuously disrupt the mobile phone industry today and in the years to come. 
 
 ###### References:
