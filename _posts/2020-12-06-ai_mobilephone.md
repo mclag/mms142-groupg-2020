@@ -24,5 +24,5 @@ Speech recognition is the process that enables a computer to recognize and resp
 
 With the increasing popularity of AI assistant, in its Digital Assistant and Voice AI-Capable Device Forecast for 2016 to 2021, research and consulting firm Ovum claims, by 2021, the native digital assistant base globally is set to exceed 7.5 billion active devices. By 2021, around 47.6% of voice AI-capable devices are expected to be used in Asia and Oceania. Some of the popular AI assistant in the markets are Google Assistant with a 23.3 percent market share, Samsung’s Bixby has 14.5 percent market share, Apple’s Siri has 13.1 percent, Amazon’s Alexa has a 3.9 percent, and Microsoft’s Cortana with 2.3 percent of market share (Chourasia, 2020). As people get busier and much more focused on demanding task which may take long hours to finish, they wanted to have someone to rely on to do some personal task that will let them save time. With that, AI assistant could be the best option as it is cheaper and efficient rather than hiring someone. 
 
-<br/>
+### AI Voice Assistant
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ou9CjRWq1tM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
