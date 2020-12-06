@@ -31,3 +31,6 @@ Aside from speech recognition, another thing that AI can do is that it is capabl
 
 <center><b>Apple Siri as a Language Translator</b></center>
 <center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/pf_OFCRCilY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
+
+<center><b>Siri Actual Language Translation</b></center>
+<center><p><iframe width="640" height="360" src="https://www.youtube.com/embed/wO7DYG9JT58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></center>
