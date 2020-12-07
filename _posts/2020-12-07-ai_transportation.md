@@ -14,7 +14,7 @@ The earliest use of AI in transportation was in 1989 was the ALVINN or Autonomou
 This was the state of AI in transportation until in 2014, where American car company tesla announced and applied new features namely automatic road centering and traffic aware cruise control through using several cameras installed around the car, and the information is passed through a neural network<sup>[3](https://www.tesla.com/blog/dual-motor-model-s-and-autopilot )</sup>. These features were only the start of AI potential benefit to the transportation industry. And year in and year out Tesla pumped out new features such as Auto parking, Obstacle awareness, Smart summon, Traffic light awareness and Autosteer in certain areas, with the eventual goal of Full self-driving planned in the future<sup>[4](https://www.tesla.com/autopilot)</sup>.
 
 How Tesla's Self-Driving Autopilot Actually Works | WIRED
-<iframe width="640" height="360" src="https://www.youtube.com/embed/AiOxUcDgsa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AiOxUcDgsa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Smart cars are not the only type of transportation where AIs can make a difference AIs are also being utilized in other areas in transportation namely the railroad industry, the truck driving industry, and the taxi industry. 
 ## AI used in the locomotive industry
@@ -23,12 +23,12 @@ The railroad or locomotive industry is an industry that has become stagnant beca
 The next area in which AIs utilized is the trucking industry, the trucking industry is the way most consumable goods are transported in the US the industry transports 65% of consumable goods<sup>[7](https://www.mckinsey.com/industries/travel-logistics-and-transport-infrastructure/our-insights/)</sup>. With self-driving trucks this industry will be changed forever, companies will no longer need to relay on drivers and instead use automated trucks for product distribution. Self-driving trucks have no problem dealing with sleep, human error or weather problems because the AI can account for all of these. However, this innovation does bring a problem and the problem is the jobs of truck drivers their jobs are at risk because of new technology<sup>[8]( https://www.vox.com/recode/2020/7/1/21308539/self-driving-autonomous-trucks-ups-freight-network
 )</sup>.
 Uber's Self-Driving Truck Makes Its First Delivery | WIRED
-<iframe width="640" height="360" src="https://www.youtube.com/embed/sIlCR4eG8_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sIlCR4eG8_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## AI used in the taxi industry
 The last area that is utilizing AIs is the taxi industry. The way AIs is being utilized is through self-driving cars, with this technology taxi companies no longer need to employ drivers for their cars instead they just need to set up a service to book a taxi similar to Uber or grab. Waymo is one of these that focuses on self-driving cars. As for their rates, their rates can cheaper than their competitor does because they do not need to pay the driver<sup>[9]( https://www.theverge.com/2018/7/31/17635472/waymo-self-driving-cars-pricing-ride-hail-arizona)</sup>. 
 A ride in a Waymo driverless car
-<iframe width="640" height="360" src="https://www.youtube.com/embed/2hqTnmn51Fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hqTnmn51Fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 To close this out why is AI a disruptive technology, it is disruptive because AI is going to take the jobs of people in the industry. Taxis drivers, truckers, private drivers, train operators are jobs at risk if AI reaches a point where these jobs are now obsolete. However, with these jobs disappearing there becomes a need for jobs that focus on the maintenance for these devices. 
