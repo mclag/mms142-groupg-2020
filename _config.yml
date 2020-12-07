@@ -14,26 +14,24 @@ permalink: /:title/
 # Authors
 authors:
   Marc:
-     name: Marc Eduard Lagayan
-     display_name: Marc Eduard
-     gravatar: ce0fdc3924e1ad75e93685872ae198f7
-     email: mclagayan@up.edu.ph
-     web: https://github.com/mclag
-     twitter: 
-     description: UPOU BAMS Student
- Lea Lyn:
+    name: Marc Eduard Lagayan
+    display_name: Marc Eduard
+    gravatar: ce0fdc3924e1ad75e93685872ae198f7
+    email: mclagayan@up.edu.ph
+    web: https://github.com/mclag
+    twitter: 
+    description: UPOU BAMS Student
+  Lea Lyn:
     name: Lea Lyn Latawan
     display_name: Lea Lyn Latawan   
-    avatar: 
     gravatar: 
     email: lmlatawan@up.edu.ph
     web:  https://github.com/lealynfs
     twitter:
     description: UPOU BAMS Student
-Janella Rayne:
+  Janella Rayne:
     name: Janella Rayne Habal
     display_name: Janella Rayne Habal
-    avatar: 
     gravatar: 
     email: jrhabal@up.edu.ph
     web:  https://github.com/jalaulan
