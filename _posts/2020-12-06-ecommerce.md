@@ -21,6 +21,10 @@ Due to AI’s predictive ability, online vendors can apply this algorithm in a w
 
 When a buyer doesn’t know how to search for the item they want, but they have an image of it saved in their device, the AI can find it for them. Armed with “intelligent image searching technology,” the system can identify the items present in the picture and bring up a list of similar-looking products (Icicle Technologies, 2020; Kosmayer, 2020).
 
+![Image Searching](https://github.com/mclag/mms142-groupg-2020/blob/main/assets/images/ecom1.jpg)
+
+An example would be Amazon's StyleSnap, where the AI can identify even the smallest details of products from a picture and, present options for the customer to choose from.
+
 ### Dynamic Pricing
 
 This strategy uses data to alter pricing on products in real-time. By observing the competitions’ pricing and sales data, the AI ensures that the price would encourage a transaction and, the business would still profit greatly (Icicle Technology, 2020).
@@ -28,6 +32,10 @@ This strategy uses data to alter pricing on products in real-time. By observing 
 ### Virtual Assistants and Chatbots
 
 This technology aids in an online shopper’s experience by being able to answer common questions and are available 24/7. They also collect and track customer data to make the experience more personalized and help the shopper find what they need (Kosmayer, 2020; Meyster, 2020).
+
+A great example of a chatbot is Watson from North Face's online shop. The AI asks the customer various questions and even performs real-time searches to fit the customer's needs.
+
+![Watson the Chatbot](https://github.com/mclag/mms142-groupg-2020/blob/main/assets/images/ecom2.png)
 
 ### Inventory Management
 
@@ -38,8 +46,6 @@ Businesses can predict and keep track of inventory with AI. Data concerning mark
 The AI collects psychographic and demographic data to predict trends. With this, businesses can improve marketing tactics to maximize profits. (Icicle Technology, 2020). 
 
 According to Aljukjadar (2018), AI disrupts the “current e-commerce model.” In the past, businesses would be the ones to coax demand but, now what the consumers want, they get. Notice that the examples mentioned above focus on what the market wants and catering to that. Aljukjadar goes on to claim that soon, with the help of AI, customers would dictate their orders and, sellers would have to consider it depending on various details. As he wrote, “AI will transform online buying to online negotiating.” 
-
-![](/assets/images/ecommerce%201.jpg)
 
 #### References 
 
