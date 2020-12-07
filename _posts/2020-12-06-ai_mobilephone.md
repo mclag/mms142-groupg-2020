@@ -73,7 +73,7 @@ AlSmartz. (2019, October 14). Speech Recognition Using Artificial Intelligence. 
 
 Anurag. (2020, April 13). 5 ways Artificial Intelligence is accelerating mobile app technology. Retrieved from <https://www.newgenapps.com/blog/5-ways-artificial-intelligence-is-accelerating-mobile-app-technology/>
 
-Chourasia, S. (2020, August 5). 10 AI Assistants of 2021. Retrieved from <https://techresearchonline.com/blog/best-ai-assistant-of-2021/
+Chourasia, S. (2020, August 5). 10 AI Assistants of 2021. Retrieved from <https://techresearchonline.com/blog/best-ai-assistant-of-2021/>
 
 Gogoi, M. (2019, February 13). How to Use AI Camera Features on Any Android Phone. Retrieved from <https://www.guidingtech.com/ai-camera-features-android-phone/>
 
