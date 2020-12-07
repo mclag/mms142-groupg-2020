@@ -66,7 +66,7 @@ AI in the mobile phone industry can be disruptive because of these three reasons
 ## Conclusion
 As mobile phone manufacturer enables more AI-based features on their flagship phone, there is no doubt that the future smartphone would surely become smarter than ever and would do unimaginable things. This will also bring in more revenue and profits for those app developer company as they can take advatage of the platform provided by the mobile phone manufacturer. AI is really a breakthrough, yet there are still a lot of things to explore about its application in the mobile phone industry and I know there will be endless innovation coming up. Hence, AI will continuously disrupt the mobile phone industry today and in the years to come. 
 
-###### References:
+#### References:
 
 AlSmartz. (2019, October 14). Speech Recognition Using Artificial Intelligence. Retrieved from 
 https://www.aismartz.com/blog/speech-recognition-using-artificial-intelligence/#:~:text=When%20based%20on%20AI%20models,well%2Drounded%20and%20more%20efficient.
@@ -95,7 +95,7 @@ https://www.fingent.com/blog/how-artificial-intelligence-is-enhancing-mobile-app
 
 Wikipedia contributors. (2020, October 15). Computational photography. In Wikipedia, The Free Encyclopedia. Retrieved 11:03, December 3, 2020, from https://en.wikipedia.org/w/index.php?title=Computational_photography&oldid=983641117
 
-###### Images and Videos
+#### Images and Videos
 
 https://pixabay.com/illustrations/technology-smartphone-industry-5246655/
 
