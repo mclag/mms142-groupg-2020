@@ -2,7 +2,7 @@
 layout: post
 title:  "Artificial Intelligence in the Transportation Industry"
 author: Adrian Colin Hilario
-image: /assets/images/AI transportation.png
+image: /assets/images/AI transportation.jpg
 ---
 # Artificial intelligence in transportation industry
 
