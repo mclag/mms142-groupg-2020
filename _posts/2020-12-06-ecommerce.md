@@ -39,7 +39,7 @@ The AI collects psychographic and demographic data to predict trends. With this,
 
 According to Aljukjadar (2018), AI disrupts the “current e-commerce model.” In the past, businesses would be the ones to coax demand but, now what the consumers want, they get. Notice that the examples mentioned above focus on what the market wants and catering to that. Aljukjadar goes on to claim that soon, with the help of AI, customers would dictate their orders and, sellers would have to consider it depending on various details. As he wrote, “AI will transform online buying to online negotiating.” 
 
-<img src="assets/images/ecommerce%201.jpg" width="100">
+![](assets/images/ecommerce 1.jpg)
 
 #### References 
 
