@@ -22,13 +22,14 @@ authors:
      twitter: 
      description: UPOU BAMS Student
  Lea Lyn:
-     name: Lea Lyn Latawan
-     display_name: Lea Lyn Latawan
-     gravatar: 
-     email: lmlatawan@up.edu.ph
-     web: https://github.com/lealynfs
-     twitter: 
-     description: UPOU BAMS Student    
+    name: Lea Lyn Latawan
+    display_name: Lea Lyn Latawan   
+    avatar: 
+    gravatar: 
+    email: lmlatawan@up.edu.ph
+    web:  https://github.com/lealynfs
+    twitter:
+    description: UPOU BAMS Student 
     
 # Plugins
 plugins:
