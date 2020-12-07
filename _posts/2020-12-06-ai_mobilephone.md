@@ -71,48 +71,45 @@ As mobile phone manufacturer enables more AI-based features on their flagship ph
 
 AlSmartz. (2019, October 14). Speech Recognition Using Artificial Intelligence. Retrieved from <https://www.aismartz.com/blog/speech-recognition-using-artificial-intelligence/#:~:text=When%20based%20on%20AI%20models,well%2Drounded%20and%20more%20efficient/>
 
-Anurag. (2020, April 13). 5 ways Artificial Intelligence is accelerating mobile app technology. Retrieved from https://www.newgenapps.com/blog/5-ways-artificial-intelligence-is-accelerating-mobile-app-technology/
+Anurag. (2020, April 13). 5 ways Artificial Intelligence is accelerating mobile app technology. Retrieved from <https://www.newgenapps.com/blog/5-ways-artificial-intelligence-is-accelerating-mobile-app-technology/>
 
-Chourasia, S. (2020, August 5). 10 AI Assistants of 2021. Retrieved from https://techresearchonline.com/blog/best-ai-assistant-of-2021/
+Chourasia, S. (2020, August 5). 10 AI Assistants of 2021. Retrieved from <https://techresearchonline.com/blog/best-ai-assistant-of-2021/
 
-Gogoi, M. (2019, February 13). How to Use AI Camera Features on Any Android Phone. Retrieved from https://www.guidingtech.com/ai-camera-features-android-phone/
+Gogoi, M. (2019, February 13). How to Use AI Camera Features on Any Android Phone. Retrieved from <https://www.guidingtech.com/ai-camera-features-android-phone/>
 
-Kanchwala, H. (2019, November 26). AI Camera: What Is An AI-Powered Camera And What Does It Do? Retrieved from https://www.scienceabc.com/innovation/ai-camera-what-is-an-ai-powered-camera-and-what-does-it-do.html
+Kanchwala, H. (2019, November 26). AI Camera: What Is An AI-Powered Camera And What Does It Do? Retrieved from <https://www.scienceabc.com/innovation/ai-camera-what-is-an-ai-powered-camera-and-what-does-it-do.html/>
 
-Le Santo, G. (2018, April 5). Real-time language translation boosted by AI. Retrieved from 
-https://www.orange-business.com/en/blogs/language-translation-boosted-by-ai
+Le Santo, G. (2018, April 5). Real-time language translation boosted by AI. Retrieved from <https://www.orange-business.com/en/blogs/language-translation-boosted-by-ai/>
 
-Noelle, C. (2019, October 9). How Artificial Intelligence Will Disrupt Speech Recognition. Retrieved from  https://www.processmaker.com/blog/how-artificial-intelligence-will-disrupt-speech-recognition/
+Noelle, C. (2019, October 9). How Artificial Intelligence Will Disrupt Speech Recognition. Retrieved from<https://www.processmaker.com/blog/how-artificial-intelligence-will-disrupt-speech-recognition/>
 
-Rao, A., Chitkara, R. & Ladda, S. (n.d.). The Smarter Phone: How AI-enabled devices will reshape the Technology, Media and Telecoms Industry. Retrieved from 
-https://www.pwc.com/gx/en/industries/tmt/publications/assets/ai-enabled-smartphone.pdf
+Rao, A., Chitkara, R. & Ladda, S. (n.d.). The Smarter Phone: How AI-enabled devices will reshape the Technology, Media and Telecoms Industry. Retrieved from <https://www.pwc.com/gx/en/industries/tmt/publications/assets/ai-enabled-smartphone.pdf/>
 
-Sallomi, P. (n.d.). Artificial Intelligence Goes Mainstream. Retrieved from https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/artificial-intelligence-disruption.html
+Sallomi, P. (n.d.). Artificial Intelligence Goes Mainstream. Retrieved from <https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/artificial-intelligence-disruption.html/>
 
-Sreejith. (2019, August 22). How Artificial Intelligence Is Enhancing Mobile App Technology. Retrieved from 
-https://www.fingent.com/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology/
+Sreejith. (2019, August 22). How Artificial Intelligence Is Enhancing Mobile App Technology. Retrieved from <https://www.fingent.com/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology/>
 
-Wikipedia contributors. (2020, October 15). Computational photography. In Wikipedia, The Free Encyclopedia. Retrieved 11:03, December 3, 2020, from https://en.wikipedia.org/w/index.php?title=Computational_photography&oldid=983641117
+Wikipedia contributors. (2020, October 15). Computational photography. In Wikipedia, The Free Encyclopedia. Retrieved 11:03, December 3, 2020, from <https://en.wikipedia.org/w/index.php?title=Computational_photography&oldid=983641117/>
 
 #### Images and Videos
 
-https://pixabay.com/illustrations/technology-smartphone-industry-5246655/
+<https://pixabay.com/illustrations/technology-smartphone-industry-5246655/>
 
-https://www.youtube.com/watch?v=80AyUCjZYZM- 
+<https://www.youtube.com/watch?v=80AyUCjZYZM-/>
 
-https://www.youtube.com/watch?v=mfnU00cpr44&t=59s
+<https://www.youtube.com/watch?v=mfnU00cpr44&t=59s/>
 
-https://www.facebook.com/events/695002031434114/?post_id=703267667274217&view=permalink
+<https://www.facebook.com/events/695002031434114/?post_id=703267667274217&view=permalink/>
 
-https://www.youtube.com/watch?v=cnXapYkboRQ-
+<https://www.youtube.com/watch?v=cnXapYkboRQ-/>
 
-https://www.youtube.com/watch?v=Dley0qgbFxk  
+<https://www.youtube.com/watch?v=Dley0qgbFxk/> 
 
-https://www.oppo.com/ph/smartphones/series-reno/reno4/
+<https://www.oppo.com/ph/smartphones/series-reno/reno4/>
 
-https://www.youtube.com/watch?v=z-t1h0Y8vuM
+<https://www.youtube.com/watch?v=z-t1h0Y8vuM/>
 
-https://www.youtube.com/watch?v=g4m6StzUcOw
+<https://www.youtube.com/watch?v=g4m6StzUcOw/>
 
-https://www.youtube.com/watch?v=ou9CjRWq1tM- 
+<https://www.youtube.com/watch?v=ou9CjRWq1tM-/>
 
