@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artificial Intelligence in the Education Industry"
-author: Janella Rayne Habal
+author: Janella Rayne
 image: /assets/images/education.png
 ---
 
