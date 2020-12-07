@@ -21,8 +21,6 @@ Due to AI’s predictive ability, online vendors can apply this algorithm in a w
 
 When a buyer doesn’t know how to search for the item they want, but they have an image of it saved in their device, the AI can find it for them. Armed with “intelligent image searching technology,” the system can identify the items present in the picture and bring up a list of similar-looking products (Icicle Technologies, 2020; Kosmayer, 2020).
 
-![Image Searching](https://github.com/mclag/mms142-groupg-2020/blob/main/assets/images/ecom1.jpg)
-
 ![img](https://i.imgur.com/RET2Wv6.jpg)
 
 An example would be Amazon's StyleSnap, where the AI can identify even the smallest details of products from a picture and, present options for the customer to choose from.
@@ -37,7 +35,7 @@ This technology aids in an online shopper’s experience by being able to answer
 
 A great example of a chatbot is Watson from North Face's online shop. The AI asks the customer various questions and even performs real-time searches to fit the customer's needs.
 
-![Watson the Chatbot](https://github.com/mclag/mms142-groupg-2020/blob/main/assets/images/ecom2.png)
+![img](https://i.imgur.com/HDB7Bwg.png)
 
 ### Inventory Management
 
