@@ -23,6 +23,8 @@ When a buyer doesn’t know how to search for the item they want, but they have 
 
 ![Image Searching](https://github.com/mclag/mms142-groupg-2020/blob/main/assets/images/ecom1.jpg)
 
+![img](https://i.imgur.com/RET2Wv6.jpg)
+
 An example would be Amazon's StyleSnap, where the AI can identify even the smallest details of products from a picture and, present options for the customer to choose from.
 
 ### Dynamic Pricing
