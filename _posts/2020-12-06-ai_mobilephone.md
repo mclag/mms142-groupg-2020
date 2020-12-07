@@ -69,7 +69,7 @@ As mobile phone manufacturer enables more AI-based features on their flagship ph
 <br/>
 #### References:
 
-AlSmartz. (2019, October 14). Speech Recognition Using Artificial Intelligence. Retrieved from <https://www.aismartz.com/blog/speech-recognition-using-artificial-intelligence/#:~:text=When%20based%20on%20AI%20models,well%2Drounded%20and%20more%20efficient>
+AlSmartz. (2019, October 14). Speech Recognition Using Artificial Intelligence. Retrieved from <https://www.aismartz.com/blog/speech-recognition-using-artificial-intelligence/#:~:text=When%20based%20on%20AI%20models,well%2Drounded%20and%20more%20efficient/>
 
 Anurag. (2020, April 13). 5 ways Artificial Intelligence is accelerating mobile app technology. Retrieved from https://www.newgenapps.com/blog/5-ways-artificial-intelligence-is-accelerating-mobile-app-technology/
 
