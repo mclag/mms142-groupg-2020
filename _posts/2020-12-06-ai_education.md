@@ -34,22 +34,37 @@ It is quite difficult for educators to answer each individual question of every 
 ## Challenges of AI in Education
 
 AI and ML still face several challenges and limitations that need to be addressed before they can truly be implemented in the field of education (Jessica, 2018):
+
 Inadequate infrastructure and funds: Implementing AI technologies at scale is expensive, and not all institutions have access to these funds.
+
 Fear and resistance to change: Changing the thoughts of students and teachers and having them adopt newer technologies that can aid in education is not an easy task. Some educators fear being replaced and losing their jobs in the process as well.
+
 Adoption at scale: The integration of AI requires the support of multiple stakeholders such as parents, students, teachers, administrators, and policymakers, which is difficult to achieve right away. 
+
 Data privacy and cybersecurity: This is one of the biggest risks of the implementation of AI in education as much personal data is needed for success.
+
 Subject limitations: AI is not always relevant or effective in all subjects. For example, personalized learning and automated assessment are unlikely to work in practical subjects with strong subjectiveness in assessment like drama, art and physical education.
-Conclusion
+
+## Conclusion
+
 As we have seen, there are a number ways that AI can aid in addressing the challenges of traditional education on either the side of the learner or the educator. If we would be able to overcome the challenges and find an accessible and affordable way of implementing technology into the curriculum, then we would be able to tap into the potential of AI in education. 
 	
 ## References
 
 Advani, V. (June 17, 2019). 6 Ways AI is Disrupting the Education Sector. Retrieved from <https://www.mygreatlearning.com/blog/how-is-ai-disrupting-the-education-sector/>
+
 Agnihotri, M. (January 24, 2019). Disruptive technologies in Education industry. Retrieved from <https://blog.edsense.in/disruptive-technologies-in-education-industry/>
+
 Boyce, P. (August 18, 2019). Schools Are Outdated. It's Time For Reform. Retrieved from <https://fee.org/articles/schools-are-outdated-its-time-for-reform/>
+
 Jessica (February 28, 2018). How artificial intelligence is disrupting education. Retrieved from <http://asia.blog.terrapinn.com/edutech/2018/02/28/role-artificial-intelligence-ai-education/>
+
 Johnson, A. (February 06, 2019). 5 Ways AI Is Changing The Education Industry. Retrieved from <https://elearningindustry.com/ai-is-changing-the-education-industry-5-ways>
+
 Marr, B.  (July 25, 2018). How Is AI Used In Education -- Real World Examples Of Today And A Peek Into The Future. Retrieved from <https://www.forbes.com/sites/bernardmarr/2018/07/25/how-is-ai-used-in-education-real-world-examples-of-today-and-a-peek-into-the-future/?sh=7f8e54c9586e>
+
 Rauf, D. (May 19, 2020). Will COVID-19 Spur Greater Use of Artificial Intelligence in K-12 Education? Retrieved from <https://www.edweek.org/ew/articles/2020/05/20/will-covid-19-spur-greater-use-of-artificial.html>
+
 Snow, J. (January 16, 2019) AI Technology is Disrupting the Traditional Classroom. Here’s a Progress Report. Retrieved from <https://www.pbs.org/wgbh/nova/article/ai-technology-is-disrupting-the-traditional-classroom/>
+
 Zovko, V. & Gudlin, M. (2019). Artificial Intelligence as a Disruptive Technology in Education. Retrieved from <https://www.semanticscholar.org/paper/Artificial-Intelligence-as-a-Disruptive-Technology-Zovko-Gudlin/03af1cfbe418b79bcd1b60c42a1c63ca84d6d8d5>
