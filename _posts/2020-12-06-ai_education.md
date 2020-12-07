@@ -35,15 +35,15 @@ It is quite difficult for educators to answer each individual question of every 
 
 AI and ML still face several challenges and limitations that need to be addressed before they can truly be implemented in the field of education (Jessica, 2018):
 
-Inadequate infrastructure and funds: Implementing AI technologies at scale is expensive, and not all institutions have access to these funds.
+<i>Inadequate infrastructure and funds:</i> Implementing AI technologies at scale is expensive, and not all institutions have access to these funds.
 
-Fear and resistance to change: Changing the thoughts of students and teachers and having them adopt newer technologies that can aid in education is not an easy task. Some educators fear being replaced and losing their jobs in the process as well.
+<i>Fear and resistance to change:</i> Changing the thoughts of students and teachers and having them adopt newer technologies that can aid in education is not an easy task. Some educators fear being replaced and losing their jobs in the process as well.
 
-Adoption at scale: The integration of AI requires the support of multiple stakeholders such as parents, students, teachers, administrators, and policymakers, which is difficult to achieve right away. 
+<i>Adoption at scale:</i> The integration of AI requires the support of multiple stakeholders such as parents, students, teachers, administrators, and policymakers, which is difficult to achieve right away. 
 
-Data privacy and cybersecurity: This is one of the biggest risks of the implementation of AI in education as much personal data is needed for success.
+<i>Data privacy and cybersecurity:</i> This is one of the biggest risks of the implementation of AI in education as much personal data is needed for success.
 
-Subject limitations: AI is not always relevant or effective in all subjects. For example, personalized learning and automated assessment are unlikely to work in practical subjects with strong subjectiveness in assessment like drama, art and physical education.
+<i>Subject limitations:</i> AI is not always relevant or effective in all subjects. For example, personalized learning and automated assessment are unlikely to work in practical subjects with strong subjectiveness in assessment like drama, art and physical education.
 
 ## Conclusion
 
