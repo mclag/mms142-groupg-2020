@@ -25,10 +25,10 @@ authors:
     name: Lea Lyn Latawan
     display_name: Lea Lyn Latawan
     gravatar: 
-    email: 
-    web: 
+    email: lmlatawan@up.edu.ph
+    web: https://github.com/lealynfs
     twitter: 
-    description: 
+    description: UPOU BAMS Student 
 # Plugins
 plugins:
   - jekyll-paginate
