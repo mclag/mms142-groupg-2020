@@ -49,12 +49,12 @@ According to Aljukjadar (2018), AI disrupts the “current e-commerce model.” 
 
 #### References 
 
-Aljukhadar, M. (2018, February 28). AI to Disrupt the E-Commerce Scene (and Facebook has a Competitive Advantage). Entrepreneur. Retrieved from: https://www.entrepreneur.com/article/309702 
+Aljukhadar, M. (2018, February 28). AI to Disrupt the E-Commerce Scene (and Facebook has a Competitive Advantage). Entrepreneur. Retrieved from: <https://www.entrepreneur.com/article/309702/>
 
-Hao, K. (2018, November 17). What is Machine Learning? MIT Technology Review. Retrieved from: https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart/ 
+Hao, K. (2018, November 17). What is Machine Learning? MIT Technology Review. Retrieved from: <https://www.technologyreview.com/2018/11/17/103781/what-is-machine-learning-we-drew-you-another-flowchart//>
 
-Icicle Technologies. (2020, August 27). Changing the eCommerce Game: 8 Ways AI and ML are Disrupting Online Shopping. Retrieved from: https://www.icicletech.com/blog/ai-ml-changing-ecommerce 
+Icicle Technologies. (2020, August 27). Changing the eCommerce Game: 8 Ways AI and ML are Disrupting Online Shopping. Retrieved from: <https://www.icicletech.com/blog/ai-ml-changing-ecommerce/>
 
-Kosmayer, D. (2020, July 1). How to Use Online AI - Artificial Intelligence for eCommerce. Optimonk. Retrieved from: https://www.optimonk.com/5-ways-artificial-intelligence-is-taking-e-commerce-to-the-next-level/ 
+Kosmayer, D. (2020, July 1). How to Use Online AI - Artificial Intelligence for eCommerce. Optimonk. Retrieved from: <https://www.optimonk.com/5-ways-artificial-intelligence-is-taking-e-commerce-to-the-next-level//>
 
-Meyster, A. (2020, July 8). Disruptive AI: The New Technologies Shaking Up E-Commerce. Rethink Retail. Retrieved from: https://www.rethink.industries/article/disruptive-ai-the-new-technologies-shaking-up-e-commerce/ 
+Meyster, A. (2020, July 8). Disruptive AI: The New Technologies Shaking Up E-Commerce. Rethink Retail. Retrieved from: <https://www.rethink.industries/article/disruptive-ai-the-new-technologies-shaking-up-e-commerce//>
