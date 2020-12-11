@@ -55,3 +55,19 @@ Mcstay (2018) supports this stating that
 Nonetheless, AI is here and it will not only stay, but it will have a role in augmenting human communications. In adapting to AI-driven systems, agencies should familiarize themselves with basic AI concepts as well as its current developments. They should also be aware of the available capacities of AI on existing PR services and processes. An assessment of their current technological and business process is needed. Training and giving the necessary skills to existing employees should also be given focus. PR agencies should already have a digital backbone as base for adapting to AI systems, consequentially, they should organize their existing data as any current data can be used in training the AI system. This also implies the need for flexibility in hardware and software, and ensuring security and privacy. What tasks are to be automated should also be clear beforehand. ***Most importantly, the agency should maintain a balance between the AI systems’ operational efficiency and the creative potential of its human work force.*** (Marvin, 2018 as cited in Panda et al., 2019).
 
 Agencies and clients should watch out for these issues when adapting to AI systems if they want to integrate it to their business successfully. 
+
+### References:
+Frankenfield, J. (2020, March 13). Artificial Intelligence. Retrieved from https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp
+
+Panda, G., Upadhyay, A. K., & Khandelwal, K. (2019). Artificial Intelligence: A Strategic Disruption in Public Relations. Journal of Creative Communications, 097325861986658. doi:10.1177/0973258619866585 
+
+Galloway, C., & Swiatek, L. (2018). Public relations and artificial intelligence: It’s not (just) about robots. Public Relations Review. doi:10.1016/j.pubrev.2018.10.008 
+
+Gregory, A. (2004). Scope and structure of public relations: a technology driven view. Public Relations Review, 30(3), 245–254. doi:10.1016/j.pubrev.2004.05.001 
+
+The Past, Present, and Future of Artificial Intelligence in PR (2019, January 16). Retrieved from https://www.cision.com/2019/01/artificial-intelligence-PR/
+
+Amos, D. (2016). What does artificial intelligence mean for public relations? [Blog post]. Retrieved from https://www.prca.org.uk/AIinPR
+
+Mcstay, A. (2018). Emotional Al: The rise of empathic media. London: Sage.
+
