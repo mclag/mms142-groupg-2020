@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Artificial Intelligence in the Medical and Health Field"
+title:  "Artificial Intelligence in the Health and Medical Field"
 author: Marc
 image: assets/images/health.jpg
 ---
@@ -10,7 +10,7 @@ A goal of utilizing AI in the medical field is the automation of tasks that coul
 
 Artificial Intelligence in the medical field is not about over-automating the field, but rather balance between the effective use of technology and human prowess in the medical profession. 
 
-
+The following are examples of application of Artificial Intelligence in the medical field.
 
 ### AI Assisted Surgery
 
