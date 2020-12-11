@@ -49,6 +49,7 @@ Certain applications assist professionals in diagnosis of lab and test results. 
 [FREENOME](https://www.freenome.com/) aims for early cancer detection with the help of Artificial Intelligence in screenings, diagnostic tests and blood samples. 
 
 \
+
 \
 
 
@@ -58,6 +59,7 @@ These are but a few examples of Artificial Intelligence in the medical field hel
 \
 \
 \
+
 \
 
 
