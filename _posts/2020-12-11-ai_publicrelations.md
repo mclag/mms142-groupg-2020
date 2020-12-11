@@ -6,6 +6,7 @@ image: assets/images/pr.jpg
 ---
 
 Public relations (PR) is said to be the discipline of managing reputations. It is involved in handling the flow of information between an individual or an organization and the public to control public perception. From its inception in the 1890s, the field has been focused in the promotional practice of making a person, brand, or company appeal to, and maintain a good image to the public. Other industries such as marketing and advertising is also a part of doing good PR work. Through the years, it has adapted to technologies to keep up with the times and clients’ needs.
+
 Artificial intelligence (AI) on the other hand are humanoid technologies that allows machines to exhibit human-like understanding and functions such as comprehending, learning, and problem-solving. Computer science through AI has managed to develop machines smart enough to do tasks that normally require human intellect. A cross-disciplinary approach involving mathematics, computer science, linguistics, psychology, and more, is employed in programming AI machines. The use of AI goes as far as the imagination can go, and it is now used in multiple industries, public relations included.
 
 # AI application in PR
