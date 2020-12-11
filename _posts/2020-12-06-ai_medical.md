@@ -29,3 +29,14 @@ As technical skills vary from surgeon to surgeon, Artificial Intelligence assist
 <sub>image credit: labroots</sub>
 
 Artificial Intelligence is also applicable in the medical and health field through usage of decision support systems to help explain clinical manifestation of disease. Clinical Decision Support systems are software tools that assist health professionals in decision making, analyzing past, current, and trending patient data to identify or suggest concerns or improvements to patients. Such systems also help in reducing medical errors. 
+
+
+### Therapy 
+
+![img](https://i.imgur.com/k2HWV7O.jpg){:height="235px" width="430px"}
+
+<sub>image credit:iStock by Gettyimages</sub>
+
+Programs built upon years of research and clinical trials are readily available for consumers to use for therapy and personal counseling. Programs such as the AI Therapy guides you through a number of lessons carefully designed to help effectively target anxiety. According to their website, “All pages include pre-recorded sound files from Ross and Fjola that explain the key concepts behind CBT and the other treatment strategies.” More info can be found [HERE](https://www.ai-therapy.com/overcome-social-anxiety/how-it-works)
+
+
