@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artificial Intelligence in the E-Commerce Industry"
-author: Mia Jaro
+author: Mia
 categories: [Artificial Intelligence, Online Shopping, E-Commerce]
 image: assets/images/igor-miske-Px3iBXV-4TU-unsplash.jpg
 ---
