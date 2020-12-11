@@ -14,6 +14,6 @@ Artificial Intelligence in the medical field is not about over-automating the fi
 
 ![img](https://i.imgur.com/FrjGpyB.jpg)
 
-image credit: Microsure
+<sub><sup>image credit: Microsure</sup></sub>
 
 As technical skills vary from surgeon to surgeon, Artificial Intelligence assisted surgery aims to help reduce variations in procedures. AI in surgery enables machine to understand, act upon, and learn techniques that allow them to perform surgical functions. 
