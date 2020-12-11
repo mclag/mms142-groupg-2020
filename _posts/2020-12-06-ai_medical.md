@@ -67,13 +67,13 @@ These are but a few examples of Artificial Intelligence in the medical field hel
 
 Resources:
 
-Medeley (2018, Apr 17). Artificial Intelligence in Medicine. Mendeley. Retrieved from (https://www.mendeley.com/careers/news/careers-jobs-field/artificial-intelligence-medicine)
+Medeley (2018, Apr 17). Artificial Intelligence in Medicine. Mendeley. Retrieved from https://www.mendeley.com/careers/news/careers-jobs-field/artificial-intelligence-medicine
 
-Sloane, E. & Silva, R. (2020). Chapter 83 - Artificial intelligence in medical devices and clinical decision support systems. Clinical Engineering Handbook (Second Edition). Retrieved from (https://www.sciencedirect.com/science/article/pii/B9780128134672000845#s0035)
+Sloane, E. & Silva, R. (2020). Chapter 83 - Artificial intelligence in medical devices and clinical decision support systems. Clinical Engineering Handbook (Second Edition). Retrieved from https://www.sciencedirect.com/science/article/pii/B9780128134672000845#s0035
 
-AI Therapy. Retrieved from (https://www.ai-therapy.com/overcome-social-anxiety/how-it-works)
+AI Therapy. Retrieved from https://www.ai-therapy.com/overcome-social-anxiety/how-it-works
 
-Coffaro, P. (2020, Jan 5). Disruptive Technologies: 2020 Trends in Surgery for the modern OR. OrthoFeed.com. Retrieved from (https://orthofeed.com/2020/01/05/disruptive-technologies-2020-trends-in-surgery-for-the-modern-or/)
+Coffaro, P. (2020, Jan 5). Disruptive Technologies: 2020 Trends in Surgery for the modern OR. OrthoFeed.com. Retrieved from https://orthofeed.com/2020/01/05/disruptive-technologies-2020-trends-in-surgery-for-the-modern-or/
 
-Daley, S. (2019, July 29). 32 EXAMPLES OF AI IN HEALTHCARE THAT WILL MAKE YOU FEEL BETTER ABOUT THE FUTURE. Built In. Retrieved from (https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare)
+Daley, S. (2019, July 29). 32 EXAMPLES OF AI IN HEALTHCARE THAT WILL MAKE YOU FEEL BETTER ABOUT THE FUTURE. Built In. Retrieved from https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare
 
