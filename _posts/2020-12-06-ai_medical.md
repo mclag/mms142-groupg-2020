@@ -22,7 +22,7 @@ As technical skills vary from surgeon to surgeon, Artificial Intelligence assist
 
 ### Clinical Decision Support Systems
 
-![img](https://i.imgur.com/1PFP1T0.jpg =217x118)
+![img](https://i.imgur.com/1PFP1T0.jpg){:height="118px" width="217x"}
 
 <sub>image credit: labroots</sub>
 
