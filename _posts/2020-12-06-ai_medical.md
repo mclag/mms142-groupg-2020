@@ -51,6 +51,7 @@ Certain applications assist professionals in diagnosis of lab and test results. 
 \
 \
 
+
 These are but a few examples of Artificial Intelligence in the medical field helping us live better lives. For more examples, visit [HERE](https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare).
 
 \
@@ -58,6 +59,7 @@ These are but a few examples of Artificial Intelligence in the medical field hel
 \
 \
 \
+
 
 
 Resources:
