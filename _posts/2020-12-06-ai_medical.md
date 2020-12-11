@@ -44,7 +44,7 @@ Programs built upon years of research and clinical trials are readily available 
 
 ### Diagnosis 
 
-[img](https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/pathai-ai-healthcare.jpg){:height="235px" width="430px"}
+![img](https://builtin.com/sites/default/files/styles/ckeditor_optimize/public/inline-images/pathai-ai-healthcare.jpg){:height="235px" width="430px"}
 Certain applications assist professionals in diagnosis of lab and test results. Applications like [PATH AI](https://www.pathai.com/) aims to reduce error in cancer diagnosis and develop methods for individual treatments.
 
 [FREENOME](https://www.freenome.com/) aims for early cancer detection with the help of Artificial Intelligence in screenings, diagnostic tests and blood samples. 
