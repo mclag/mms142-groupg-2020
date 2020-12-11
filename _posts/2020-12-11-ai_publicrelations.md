@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Artificial Intelligence in the Practice of Public Relations"
-author: Angela Denise Lauzon
+author: Olga
 image: assets/images/pr.jpg
 ---
 
