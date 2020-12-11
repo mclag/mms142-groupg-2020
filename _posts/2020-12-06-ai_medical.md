@@ -49,19 +49,19 @@ Certain applications assist professionals in diagnosis of lab and test results. 
 [FREENOME](https://www.freenome.com/) aims for early cancer detection with the help of Artificial Intelligence in screenings, diagnostic tests and blood samples. 
 
 
-
-
+<br>
+<br>
 
 
 These are but a few examples of Artificial Intelligence in the medical field helping us live better lives. For more examples, visit [HERE](https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare).
 
+<br>
+<br>
 
 
 
 
-
-
-<sub>Resources:
+Resources:
 
 Medeley (2018, Apr 17). Artificial Intelligence in Medicine. Mendeley. Retrieved from (https://www.mendeley.com/careers/news/careers-jobs-field/artificial-intelligence-medicine)
 
@@ -72,4 +72,4 @@ AI Therapy. Retrieved from (https://www.ai-therapy.com/overcome-social-anxiety/h
 Coffaro, P. (2020, Jan 5). Disruptive Technologies: 2020 Trends in Surgery for the modern OR. OrthoFeed.com. Retrieved from (https://orthofeed.com/2020/01/05/disruptive-technologies-2020-trends-in-surgery-for-the-modern-or/)
 
 Daley, S. (2019, July 29). 32 EXAMPLES OF AI IN HEALTHCARE THAT WILL MAKE YOU FEEL BETTER ABOUT THE FUTURE. Built In. Retrieved from (https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare)
-</sub>
+
