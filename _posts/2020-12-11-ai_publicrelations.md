@@ -13,7 +13,7 @@ Public relations has been transformed by the Internet and electronic communicati
 
 Before we discuss what are the different AI applications in PR, it must first be clarified that while on the surface it seems that AI in public relations centralizes in task automation, that is not the case, at least for the future. Right now AI tackles menial and repetitive tasks to free up practitioners’ time to allow them to pursue more productive tasks. To Galloway and Swiatek (2018), AI will dramatically change the landscape of PR practice, not merely selected contours of it. 
 
-![AI photo](https://imgur.com/a/oSM4hou)
+![AI photo](https://i.imgur.com/jEc7ENq.jpg)
 ###### photo from [Hitesh Choudhary](https://unsplash.com/@hiteshchoudhary) on [Unsplash](https://unsplash.com/)
 
 At present, AI streamlines functions, analyzes massive data, and develops personas without human error, thus providing accuracy. It also reduces costs and delivers output at the fraction of the time it would take if a person did it. 
@@ -29,7 +29,7 @@ Nowadays, AI is used in sentiment analysis, which utilizes natural language proc
 These AI functions are only foreseen to be smarter and more efficient in time. Stephen Waddington, chief engagement officer at global PR firm Ketchum, said that in five years’ time, AI is likely to have a stronger grip on PR functions. AI is seen to be involved in content creation, automation of tasks, crisis management, and agency-client relationship management. 
 
 # Is AI in public relations disruptive?
-![Data has better idea](https://imgur.com/a/rscfR5N)
+![Data has better Idea](https://i.imgur.com/mLcBSyT.jpeg)
 ###### photo from [Franki Chamaki](https://unsplash.com/@franki) on [Unsplash](https://unsplash.com/)
 
 In the study of Panda et al. (2019), 31 PR professionals were interviewed regarding the application of AI in public relations. The participants had a mixed response when asked if AI has the potential to be a strategic disruption in the PR industry. Most of the professionals felt that AI is in its nascent phase of development and application in the PR industry, thus it is still too early to comment on it as a strategic disruption. However, they see the prospect of a smaller agency powered with AI disrupting major agencies and networks. They concluded that AI has the potential to be a strategic disruption in the near future.
