@@ -10,6 +10,7 @@ A goal of utilizing AI in the medical field is the automation of tasks that coul
 
 Artificial Intelligence in the medical field is not about over-automating the field, but rather balance between the effective use of technology and human prowess in the medical profession. 
 
+
 ### AI Assisted Surgery
 
 ![img](https://i.imgur.com/FrjGpyB.jpg)
@@ -17,3 +18,12 @@ Artificial Intelligence in the medical field is not about over-automating the fi
 <sub>image credit: Microsure</sub>
 
 As technical skills vary from surgeon to surgeon, Artificial Intelligence assisted surgery aims to help reduce variations in procedures. AI in surgery enables machine to understand, act upon, and learn techniques that allow them to perform surgical functions. 
+
+
+### Clinical Decision Support Systems
+
+![img](https://i.imgur.com/1PFP1T0.jpg)
+
+<sub>image credit: labroots</sub>
+
+Artificial Intelligence is also applicable in the medical and health field through usage of decision support systems to help explain clinical manifestation of disease. Clinical Decision Support systems are software tools that assist health professionals in decision making, analyzing past, current, and trending patient data to identify or suggest concerns or improvements to patients. Such systems also help in reducing medical errors. 
