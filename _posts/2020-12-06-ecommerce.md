@@ -45,7 +45,11 @@ Businesses can predict and keep track of inventory with AI. Data concerning mark
 
 The AI collects psychographic and demographic data to predict trends. With this, businesses can improve marketing tactics to maximize profits. (Icicle Technology, 2020). 
 
+## What Does AI Disrupt?
+
 According to Aljukjadar (2018), AI disrupts the “current e-commerce model.” In the past, businesses would be the ones to coax demand but, now what the consumers want, they get. Notice that the examples mentioned above focus on what the market wants and catering to that. Aljukjadar goes on to claim that soon, with the help of AI, customers would dictate their orders and, sellers would have to consider it depending on various details. As he wrote, “AI will transform online buying to online negotiating.” 
+
+As artificial intelligence continues to evolve, business operations will become trouble-free and, online vendors can further improve their services. There is so much potential for this disruptive technology in the e-commerce sector, and this only encourages AI developers to expand its uses.
 
 #### References 
 
