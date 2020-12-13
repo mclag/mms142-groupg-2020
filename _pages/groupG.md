@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence as a Disruptive Technology
+title: About Us
 permalink: /the G Team
 comments: true
 ---
