@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-permalink: /the G Team
+permalink: / group G
 comments: true
 ---
 
