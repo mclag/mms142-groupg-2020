@@ -23,7 +23,7 @@ AI can help make education accessible to students who speak different languages 
 
 #### Automating Administrative Tasks
 
-Educators spend a significant amount of time grading assignments and exams every week. AI can help lessen this burden as it is close to being able to assess written responses and essay-type exams. It could reduce the reliance of educational institutions on multiple-choice exams, which machines can already grade.
+Educators spend a significant amount of time grading assignments and exams every week. AI can help lessen this burden; it is already close to being able to assess written responses and essay-type exams. It could also reduce the reliance of educational institutions on multiple-choice exams, which machines can already grade.
 
 In addition, AI can provide teachers instant feedback regarding their students' learning, and recommend steps to help them progress in their journey. This and the simplification of administrative tasks allow educators more time to spend with each learner (Marr, 2018).
 
