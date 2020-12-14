@@ -5,13 +5,13 @@ author: Janella Rayne
 image: /assets/images/education.png
 ---
 
-Despite the ubiquitous impact of technology on all aspects of society today, education appears to have been mostly unchanged. The manner in which students are taught remain mostly the same since ancient times - a teacher stands in front while students sit in rows and listen. Some might find this to be their ideal learning environment, but most others struggle and are left behind in a system that is still largely standardized (Boyce, 2019).
+Despite the ubiquitous impact of technology on all aspects of society today, education still remains mostly unchanged. The manner in which students are taught remain mostly the same since ancient times - a teacher stands in front while students sit in rows and listen. Some might find this to be their ideal learning environment, but most others struggle and are left behind in a system that is still largely standardized (Boyce, 2019).
 
 According to Jessica (2019), educational institutions around the world are facing three critical challenges: (1) providing quality education, (2) ensuring education is accessible, and (3) reducing the cost of delivery to make education affordable.
 
 ## AI in Education
 
-A number of EdTech solutions appear every day, but perhaps the one with the most potential to impact the education sector is artificial intelligence (AI) and machine learning (ML). AI promises to address the problems present within the traditional practices of education, making learning more accessible and approachable to students of all abilities (Advani, 2019). As it did with other aspects of our life, AI can transform how education is administered and delivered. Below are some examples on how artificial intelligence is being applied to education today:
+A number of EdTech solutions are appearing every day, but perhaps the one with the most potential to impact the education sector is artificial intelligence (AI) and machine learning (ML). AI promises to address the problems present within the traditional practices of education, making learning more accessible and approachable to students of all abilities (Advani, 2019). As it did with other aspects of our life, AI can transform how education is administered and delivered. Below are some examples on how artificial intelligence is being applied to education today:
 
 #### Personalized Learning
 
