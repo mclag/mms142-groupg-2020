@@ -37,13 +37,13 @@ AI and ML still face several challenges and limitations that need to be addresse
 
 <i>Inadequate infrastructure and funds:</i> Implementing AI technologies at scale is expensive, and not all institutions have access to these funds.
 
-<i>Fear and resistance to change:</i> Changing the thoughts of students and teachers and having them adopt newer technologies that can aid in education is not an easy task. Some educators fear being replaced and losing their jobs in the process as well.
+<i>Fear and resistance to change:</i> Changing the minds of students and teachers and having them adopt newer technologies that can aid in education is not an easy task. Some educators fear being replaced and losing their jobs in the process as well.
 
 <i>Adoption at scale:</i> The integration of AI requires the support of multiple stakeholders such as parents, students, teachers, administrators, and policymakers, which is difficult to achieve right away. 
 
 <i>Data privacy and cybersecurity:</i> This is one of the biggest risks of the implementation of AI in education as much personal data is needed for success.
 
-<i>Subject limitations:</i> AI is not always relevant or effective in all subjects. For example, personalized learning and automated assessment are unlikely to work in practical subjects with strong subjectiveness in assessment like drama, art and physical education.
+<i>Subject limitations:</i> AI is not always relevant or effective in all types of subjects. For example, personalized learning and automated assessment are unlikely to work in practical subjects with strong subjectiveness in assessment like drama, art and physical education.
 
 ## Conclusion
 
