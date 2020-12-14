@@ -5,7 +5,7 @@ author: Janella Rayne
 image: /assets/images/education.png
 ---
 
-Despite the ubiquitous impact of technology on all aspects of society today, education still remains mostly unchanged. The manner in which students are taught remain mostly the same since ancient times - a teacher stands in front while students sit in rows and listen. Some might find this to be their ideal learning environment, but most others struggle and are left behind in a system that is still largely standardized (Boyce, 2019).
+Despite the ubiquitous impact of technology on all aspects of society today, education appears to still be mostly unchanged. The manner in which students are taught remain mostly the same since ancient times - a teacher stands in front while students sit in rows and listen. Some might find this to be their ideal learning environment, but most others struggle and are left behind in a system that is still largely standardized (Boyce, 2019).
 
 According to Jessica (2019), educational institutions around the world are facing three critical challenges: (1) providing quality education, (2) ensuring education is accessible, and (3) reducing the cost of delivery to make education affordable.
 
